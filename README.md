@@ -1,4 +1,3 @@
 ## Guacamole recipe
-
-Used in teaching git.
-
+- We are missing avocados here.
+- While not recommended, I like garlic...
